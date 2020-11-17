@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Hello. I'm fine...
+//Hello. I'm fine.
 void func1(int* p);
 void func2(int** p);
 void func3(int*** p);
